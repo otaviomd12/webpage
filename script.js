@@ -1,1 +1,3 @@
-alert("Ola!");
+funtion ,myFunction(){
+    alert("Ola");
+}
